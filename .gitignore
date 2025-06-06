@@ -24,3 +24,13 @@ __pycache__/
 # Outros
 *.swp
 .DS_Store
+
+# .gitignore
+.terraform/
+*.zip
+*.bin
+*.log
+*.pem
+*.tfstate
+*.tfstate.*
+
